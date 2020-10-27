@@ -47,11 +47,14 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9646-8457
+#- icon: arxiv
+#  icon_pack: ai
+#  link: https://arxiv.org/a/dibiagio_a_1.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+- icon: scroll
+  icon_pack: fas
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
